@@ -28,5 +28,6 @@ During the preparation of the project I consulted a number of sources, which inc
 * While Loop with If Else: https://stackoverflow.com/questions/36843103/while-loop-with-if-else-statement-in-python/36843356
 * Setting Start with End Stations: https://knowledge.udacity.com/questions/263877 
 * Student GitHub Project: https://github.com/mgcabitza/Explore-US-Bikeshare-Data/blob/master/bikeshare.py
+* Student GitHub Project_2: https://github.com/hwangmpaula/Explore-US-Bikeshare-Data/blob/master/home/bikeshare.py 
 
 
