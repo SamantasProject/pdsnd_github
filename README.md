@@ -27,5 +27,6 @@ During the preparation of the project I consulted a number of sources, which inc
 * Input Valid Data in Python_2: https://stackoverflow.com/questions/23294658/asking-the-user-for-input-until-they-give-a-valid-response
 * While Loop with If Else: https://stackoverflow.com/questions/36843103/while-loop-with-if-else-statement-in-python/36843356
 * Setting Start with End Stations: https://knowledge.udacity.com/questions/263877 
+* Student GitHub Project: https://github.com/mgcabitza/Explore-US-Bikeshare-Data/blob/master/bikeshare.py
 
 
